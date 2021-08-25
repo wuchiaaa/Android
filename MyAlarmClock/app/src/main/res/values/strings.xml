@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">My AlarmClock</string>
-    <string name="setClock">建立鬧鐘</string>
-    <string name="cancel">取消</string>
-    <string name="save">儲存</string>
-    <string name="clockName">鬧鐘名稱</string>
-    <string name="remind">字數不能超過10個字元</string>
-    <string name="empty">You haven\'t set any alarmclock.</string>
-</resources>
